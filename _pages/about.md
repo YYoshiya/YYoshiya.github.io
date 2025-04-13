@@ -17,5 +17,3 @@ I am currently a second-year master's student at Keio University.
 - **Numerical Solution**
 - **Machine Learning**
 
-Feel free to explore my website to learn more about my work and projects.
-
