@@ -1,12 +1,14 @@
 ---
 title: "Deep learning solution method for heterogeneous firm models"
-#collection: publications
+collection: publications
 category: working_paper
-permalink: /publication/2024-02-17-paper-title-number-4
+#permalink: /publication/2024-02-17-paper-title-number-4
 #excerpt: 'This paper is about fixing template issue #693.'
-#date: 2025-04-02
+date: 2025-04-02
+#published: false
+show_date: false
 #venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/Deep_learning_HFM.pdf'
+paperurl: 'http://YYoshiya.github.io/files/Deep_learning_HFM.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
