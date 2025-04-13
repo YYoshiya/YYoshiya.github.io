@@ -8,7 +8,7 @@ date: 2025-04-02
 #published: false
 show_date: false
 #venue: 'GitHub Journal of Bugs'
-paperurl: 'http://YYoshiya.github.io/files/Deep_learning_HFM.pdf'
+paperurl: 'http://YoshiyaYokomoto.github.io/files/Deep_learning_HFM.pdf'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
