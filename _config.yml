@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yoshiya Yokomoto"
+title                    : "Yoshiya Yokomoto / 横本快矢"
 title_separator          : "-"
-name                     : "Yoshiya Yokomoto"
-description              : "Personal website of Yoshiya Yokomoto."
+name                     : "Yoshiya Yokomoto / 横本快矢"
+description              : "Personal website of Yoshiya Yokomoto(横本快矢)."
 url                      : "https://YoshiyaYokomoto.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YoshiyaYokomoto/YoshiyaYokomoto.github.io"
