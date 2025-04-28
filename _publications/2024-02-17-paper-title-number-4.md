@@ -1,5 +1,5 @@
 ---
-title: "Deep learning solution method for heterogeneous firm models"
+title: "Fast Global Solutions for Heterogeneous Firm Models Using Deep Learning"
 collection: publications
 category: working_paper
 #permalink: /publication/2024-02-17-paper-title-number-4
