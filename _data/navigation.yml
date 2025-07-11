@@ -9,7 +9,10 @@
 
 main:
   - title: "Research"
-    url: /publications/     
+    url: /publications/    
+
+  - title: "Talks"
+    url: /talks/
            
   - title: "CV"
     url: /cv/
@@ -20,5 +23,3 @@ main:
   #- title: "Guide"
    # url: /markdown/
 
-  - title: "Talks"
-    url: /talks/
